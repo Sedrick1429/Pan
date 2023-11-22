@@ -1,1 +1,2 @@
-git clone https://github.com/amehime/hexo-theme-shoka.git%20./themes/shoka
+# cd your-blog
+git clone https://github.com/amehime/hexo-theme-shoka.git ./themes/shoka
